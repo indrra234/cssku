@@ -1,0 +1,10 @@
+#indrra {font-family:monospace;font-size:14px;color:#323B52;border:none;white-space:pre;}
+#indrra i {font-style: normal;font-family:verdana;}
+#indrra sup, #indrra b {font-size:16px;color:#DF7D64 !important;cursor:pointer;}
+#indrra .u {text-decoration:underline;}
+#indrra p {display:inline-block;margin:0;padding:0;font-style:italic;color:#333;}
+
+#indrra .song {line-height:3em;margin-top: 1em;}
+#indrra .song sup {display:inline-block;position:relative;width:0px;vertical-align:baseline;top:auto;bottom:1em;font-weight:bold;}
+#indrra .song .u {text-decoration:underline;}
+#indrra .song p {position:relative;width:0px;vertical-align:baseline;top:auto;bottom:1em;-user-modify:read-only;}
